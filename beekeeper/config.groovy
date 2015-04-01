@@ -8,7 +8,7 @@ version = "1.1"
 //sourceDirectoryPath = "."
 
 // The path of directory to be outputted a document
-outputDirectoryPath = ".."
+outputDirectoryPath = "built"
 
 theme = "default"
 
