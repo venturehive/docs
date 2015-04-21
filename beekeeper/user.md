@@ -12,7 +12,7 @@ You are encouraged to update your user account and profile information by clicki
 
 | Edit Account Fields            | Edit Profile Fields                                        |
 |:------------------------------:|:----------------------------------------------------------:|
-| Username, Password<br><br> <font size="-2">You are permitted to change your account username and your password only unless you have been granted an administrator <a href="#Roles">role</a>.</font>    | First Name, Last Name, Email Address,  Phone, Profile Picture, Gender, Website, Twitter URL, LinkedIn URL, Facebook URL, Bio, Interests, How did you hear about us?, Birthday, Areas of Expertise |
+| Email, Password<br><br> <font size="-2">You are permitted to change your account email and your password only unless you have been granted an administrator <a href="#Roles">role</a>.</font>    | First Name, Last Name, Phone, Profile Picture, Gender, Website, Twitter URL, LinkedIn URL, Facebook URL, Bio, Interests, How did you hear about us?, Birthday, Areas of Expertise |
 
 # Manage Content
 
