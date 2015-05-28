@@ -2,7 +2,7 @@
 
 ## How do I contact support if I have a problem?
 
-If you are a Venture Hive customer then you automatically have support. There are no extra hoops to jump through. You may contact support at any time via the "Feedback & Support" tab found on the right side of the browser window or by email at `support@venturehive.co`.
+If you are a Venture Hive customer then you automatically have support. There are no extra hoops to jump through. You may contact support at any time via the "Feedback & Support" tab found on the right side of the browser window or by email at `support@venturehive.com`.
 
 ## Can I suggest a feature? How long will it take to implement?
 
