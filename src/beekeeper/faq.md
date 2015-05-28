@@ -48,7 +48,7 @@ For our programs to run smoothly, we need a system that delivers all of the feat
 
 ## What technology did you use to build Beekeeper?
 
-Beekeeper is built using the [Grails](https://grails.org/ "Grails") web framework which takes advantage of the [Groovy](http://groovy.codehaus.org/ "Groovy") programming language.
+Beekeeper is built using the [Grails](https://grails.org/ "Grails") web framework which takes advantage of the [Groovy](http://www.groovy-lang.org/ "Groovy") programming language.
 
 ## We have our own authentication server in place (Active Directory, LDAP, etc) and we want to use that instead of creating a new account in Beekeeper. Is that possible?
 
