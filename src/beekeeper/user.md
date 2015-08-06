@@ -102,19 +102,25 @@ In the tables below, we have separated roles into two types: Administrator Roles
 
 ### User Roles
 
-| &nbsp;                                              | ENTREPRENEUR |   USER   |     COACH     | COACH (INTERNAL) |
-|:---------------------------------------------------:|:------------:|:--------:|:-------------:|:----------------:|
-| Create/Edit/Delete Events                           |              |          |               |                  |
-| View Events                                         |       X      |     X    |       X       |         X        |
-| Create Meetings                                     |       X      |          |       X       |         X        |
-| Edit Meetings (If Created by You)                   |       X      |          |       X       |         X        |
-| Delete Meetings                                     |              |          |               |                  |
-| View Meetings (If Invited)                          |       X      |     X    |       X       |         X        |
-| Create/Edit Meeting Notes (If Invited to Meeting)   |       X      |     X    |       X       |         X        |
-| View Meeting Notes (If Invited to Meeting)          |       X      |     X    |       X       |         X        |
-| View Internal Meeting Notes (If Invited to Meeting) |              |          |               |         X        |
-| Delete Meeting Notes (If Created)                   |       X      |          |       X       |         X        |
-| Create Objectives                                   |       X      |          |       X       |         X        |
-| Edit (Created/Assigned) Objectives                  |       X      |          |       X       |         X        |
-| View (Created/Assigned) Objectives                  |       X      |     X    |       X       |         X        |
-| Delete Objectives (Created By or Assigned To)       |              |          |               |                  |
+| &nbsp;                                                |     ENTREPRENEUR     |   USER   |     COACH (NON-STAFF)   | COACH (INTERNAL/STAFF) |
+|:-----------------------------------------------------:|:--------------------:|:--------:|:-----------------------:|:----------------------:|
+| Create/Edit/Delete Events                             |                      |          |                         |                        |
+| View Events                                           |       X              |     X    |       X                 |         X              |
+| Create Meetings                                       |       X              |          |       X                 |         X              |
+| Edit Meetings (If Created by You)                     |       X              |          |       X                 |         X              |
+| Delete Meetings                                       |                      |          |                         |                        |
+| View Meetings (If Invited)                            |       X              |     X    |       X                 |         X              |
+| View Meetings (If NOT Invited)                        |       X<sup>1</sup>  |          |                         |         X              |
+| Create/Edit Meeting Notes (If Invited to Meeting)     |       X              |     X    |       X                 |         X              |
+| Create/Edit Meeting Notes (If NOT Invited to Meeting) |       X<sup>1</sup>  |          |                         |         X              |
+| View Meeting Notes (If Invited to Meeting)            |       X              |     X    |       X                 |         X              |
+| View Meeting Notes (If NOT Invited to Meeting)        |       X<sup>1</sup>  |          |                         |         X              |
+| View Internal Meeting Notes (If Invited to Meeting)   |                      |          |                         |         X              |
+| Delete Meeting Notes (If Created)                     |       X              |          |       X                 |         X              |
+| Create Objectives                                     |       X              |          |       X                 |         X              |
+| Edit Objectives (If Created/Assigned)                 |       X              |          |       X                 |         X              |
+| Edit Objectives (If NOT Created/Assigned)             |                      |          |                         |                        |
+| View Objectives (If Created/Assigned)                 |       X              |     X    |       X                 |         X              |
+| View Objectives (If NOT Created/Assigned)             |       X<sup>1</sup>  |          |                         |         X              |
+| Delete Objectives (If Created/Assigned)               |                      |          |                         |                        |
+<sup>1</sup>If specified as an Executive for Company

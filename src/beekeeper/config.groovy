@@ -2,7 +2,8 @@
 title = "Venture Hive Beekeeper™ User Guide"
 
 // The version of this document
-version = "1.1"
+version = "1.2"
+// 1.2 : Updated User Role permissions to include Meeting NOT invited and Objectives NOT assigned/created
 
 // The path of source files directory
 //sourceDirectoryPath = "."
