@@ -30,13 +30,13 @@ Events represent internal or public calendar entries created for your site membe
 
 As with all scheduled content, you can subscribe to a personalized `Events` iCal feed by clicking on the Events iCal button ![Events iCal URL](./images/events_ical.png) 
 
-The Events iCal URL provided to you is unique to your account and shows all of the events that are available to you. There are separate URL's provided for *standard iCal* (Outlook, iCal, etc) and for *Google Calendar iCal* (for Google Calendar). ![Events iCal URL Dialog](./images/events_ical_dlg.png) 
+The Events iCal URL provided to you is unique to your account and shows all of the events that are available to you. The URL provided works for all iCal supported calendars: Outlook, iCal, Google Calendar, etc. ![Events iCal URL Dialog](./images/events_ical_dlg.png) 
 
 ## Meetings
 
 As with all scheduled content, you can subscribe to a personalized `Meetings` iCal feed by clicking on the Meetings iCal button ![Meetings iCal URL](./images/meetings_ical.png) 
 
-The Meetings iCal URL provided to you is unique to your account and shows all of the Meetings to which you are invited. There are separate URL's provided for *standard iCal* (Outlook, iCal, etc) and for *Google Calendar iCal* (for Google Calendar). ![Meetings iCal URL Dialog](./images/meetings_ical_dlg.png) 
+The Meetings iCal URL provided to you is unique to your account and shows all of the Meetings to which you are invited. The URL provided works for all iCal supported calendars: Outlook, iCal, Google Calendar, etc. ![Meetings iCal URL Dialog](./images/meetings_ical_dlg.png) 
 
 ## Meeting Notes
 
@@ -44,7 +44,7 @@ The Meetings iCal URL provided to you is unique to your account and shows all of
 
 As with all scheduled content, you can subscribe to a personalized `Objectives` iCal feed by clicking on the Objectives iCal button ![Objectives iCal URL](./images/objectives_ical.png) 
 
-The Objectives iCal URL provided to you is unique to your account and shows all of the Objectives to which you are invited. There are separate URL's provided for *standard iCal* (Outlook, iCal, etc) and for *Google Calendar iCal* (for Google Calendar). ![Objectives iCal URL Dialog](./images/objectives_ical_dlg.png) 
+The Objectives iCal URL provided to you is unique to your account and shows all of the Objectives to which you are invited. The URL provided works for all iCal supported calendars: Outlook, iCal, Google Calendar, etc. ![Objectives iCal URL Dialog](./images/objectives_ical_dlg.png) 
 
 ## Manage Ventures
 
