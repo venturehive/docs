@@ -109,7 +109,7 @@ In the tables below, we have separated roles into two types: Administrator Roles
 | Create Meetings                                       |       X              |          |       X                 |         X              |
 | Edit Meetings (If Created by You)                     |       X              |          |       X                 |         X              |
 | Delete Meetings                                       |                      |          |                         |                        |
-| View Meetings (If Invited)                            |       X              |     X    |       X                 |         X              |
+| View Meetings (If Invited or Created)                 |       X              |     X    |       X                 |         X              |
 | View Meetings (If NOT Invited)                        |       X<sup>1</sup>  |          |                         |         X              |
 | Create/Edit Meeting Notes (If Invited to Meeting)     |       X              |     X    |       X                 |         X              |
 | Create/Edit Meeting Notes (If NOT Invited to Meeting) |       X<sup>1</sup>  |          |                         |         X              |
