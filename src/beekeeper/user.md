@@ -64,65 +64,65 @@ Some sites may permit their users to register their own ventures on the site. If
 
 Each user is granted one or more roles in Beekeeper. Your role dictates which actions your are permitted to perform (creating, editing, or deleting content) and what you are permitted to view.
 
-Your roles are shown in the Profile box in the left nav area in the "Dashboard" pages. ![User Role](./images/user_role.png)
+[comment]: # (Your roles are shown in the User Account form under the "User" menu in the top nav bar. ![User Role](./images/user_role.png)
 
-In the tables below, we have separated roles into two types: Administrator Roles (`ADMINISTRATOR`, `DIRECTOR`, `USER ADMINISTRATOR`, `CONTENT DEVELOPER`) and User Roles (`ENTREPRENEUR`, `COACH`, `COACH (INTERNAL)`, 'EXECUTIVE', 'REPORTS USER').
+In the tables below, we have separated roles into two types: Administrator Roles (`ADMINISTRATOR`, `DIRECTOR`, `USER ADMINISTRATOR`, `CONTENT DEVELOPER`) and User Roles (`ENTREPRENEUR`, `COACH`, `COACH (INTERNAL)`, `EXECUTIVE`, `REPORTS USER`).
 
 ### Administrator Roles
 
-| &nbsp;                         | ADMINISTRATOR | DIRECTOR | USER ADMINISTRATOR | CONTENT DEVELOPER | EXECUTIVE |
-|:------------------------------:|:-------------:|:--------:|:------------------:|:-----------------:|:----------|
-| Create Users                   |       X       |     X    |          X         |                   |           |
-| Edit (Other) Users             |       X       |     X    |          X         |                   |           |
-| Delete Users                   |       X       |          |                    |                   |           |
-| Edit (Others') User Profiles   |       X       |     X    |          X         |                   |           |
-| Assign (Others') Roles         |       X       |     X    |          X         |                   |           |
-| Set (Others') Passwords        |       X       |     X    |                    |                   |           |
-| Create Events                  |       X       |     X    |                    |         X         |           |
-| Edit Events                    |       X       |     X    |                    |         X         |           |
-| Delete Events                  |       X       |     X    |                    |         X         |           |
-| View (Others') Meetings        |       X       |     X    |                    |                   |           |
-| Create Meetings                |       X       |     X    |                    |                   |           |
-| Edit Meetings                  |       X       |     X    |                    |                   |           |
-| Delete Meetings                |       X       |     X    |                    |                   |           |
-| View (Others') Deliverables    |       X       |     X    |                    |                   |           |
-| Create Deliverables            |       X       |     X    |                    |                   |           |
-| Edit Deliverables              |       X       |     X    |                    |                   |           |
-| Delete Deliverables            |       X       |     X    |                    |                   |           |
-| View (Others') Venture Data    |       X       |     X    |                    |                   |           |
-| Edit (Others') Ventures        |       X       |     X    |                    |                   |           |
-| Delete Ventures                |       X       |          |                    |                   |           |
-| Edit (Others') Venture Profiles|       X       |     X    |                    |                   |           |
-| View System Reports            |       X       |     X    |                    |                   |           |
-| Change Site Colors             |       X       |          |                    |                   |           |
-| Change Site Time Zone          |       X       |          |                    |                   |           |
-| Edit Front Page Content        |       X       |          |                    |         X         |           |
-| Change Site Contact Info       |       X       |          |                    |         X         |           |
-| Change Site Social Media Info  |       X       |          |                    |         X         |           |
+| &nbsp;                               | ADMINISTRATOR | DIRECTOR | USER ADMINISTRATOR | CONTENT DEVELOPER | EXECUTIVE | REPORTS USER |
+|:------------------------------------:|:-------------:|:--------:|:------------------:|:-----------------:|:----------|:-------------|
+| Create Users                         |       X       |     X    |          X         |                   |           |              |
+| Edit (Other) Users                   |       X       |     X    |          X         |                   |           |              |
+| Delete Users                         |       X       |          |                    |                   |           |              |
+| Edit (Others') User Profiles         |       X       |     X    |          X         |                   |           |              |
+| Assign (Others') Roles               |       X       |     X    |          X         |                   |           |              |
+| Set (Others') Passwords              |       X       |     X    |                    |                   |           |              |
+| Create Events                        |       X       |     X    |                    |         X         |           |              |
+| Edit Events                          |       X       |     X    |                    |         X         |           |              |
+| Delete Events                        |       X       |     X    |                    |         X         |           |              |
+| View (Others') Meetings              |       X       |     X    |                    |                   |           |              |
+| Create Meetings                      |       X       |     X    |                    |                   |           |              |
+| Edit Meetings                        |       X       |     X    |                    |                   |           |              |
+| Delete Meetings                      |       X       |     X    |                    |                   |           |              |
+| View (Others') Deliverables          |       X       |     X    |                    |                   |           |              |
+| Create Deliverables                  |       X       |     X    |                    |                   |           |              |
+| Edit Deliverables                    |       X       |     X    |                    |                   |           |              |
+| Delete Deliverables                  |       X       |     X    |                    |                   |           |              |
+| View (Others') Venture Data          |       X       |     X    |                    |                   |           |              |
+| Edit (Others') Ventures              |       X       |     X    |                    |                   |           |              |
+| Delete Ventures                      |       X       |          |                    |                   |           |              |
+| Edit (Others') Venture Profiles      |       X       |     X    |                    |                   |           |              |
+| View System Reports                  |       X       |     X    |                    |                   |           |              |
+| Change Site Colors                   |       X       |          |                    |                   |           |              |
+| Change Site Time Zone                |       X       |          |                    |                   |           |              |
+| Edit Front Page Content              |       X       |          |                    |         X         |           |              |
+| Change Site Contact Info             |       X       |          |                    |         X         |           |              |
+| Change Site Social Media Info        |       X       |          |                    |         X         |           |              |
+| View Program Metrics (On Dashboard)  |       X       |          |                    |         X         |     x     |              |
+| View Rollup Reports (On Dashboard)   |       X       |          |                    |         X         |     x     |      x       |
 
 ### User Roles
 
-| &nbsp;                                                |     ENTREPRENEUR     |     COACH (NON-STAFF)   | COACH (INTERNAL/STAFF) | EXECUTIVE | REPORTS USER |
-|:-----------------------------------------------------:|:--------------------:|:-----------------------:|:----------------------:|:---------:|:-------------|
-| Create/Edit/Delete Events                             |                      |                         |                        |           |              |
-| View Events                                           |       X              |       X                 |         X              |           |              |
-| Create Meetings                                       |       X              |       X                 |         X              |           |              |
-| Edit Meetings (If Created by You)                     |       X              |       X                 |         X              |           |              |
-| Delete Meetings                                       |                      |                         |                        |           |              |
-| View Meetings (If Invited or Created)                 |       X              |       X                 |         X              |           |              |
-| View Meetings (If NOT Invited)                        |       X<sup>1</sup>  |                         |         X              |           |              |
-| Create/Edit Meeting Notes (If Invited to Meeting)     |       X              |       X                 |         X              |           |              |
-| Create/Edit Meeting Notes (If NOT Invited to Meeting) |       X<sup>1</sup>  |                         |         X              |           |              |
-| View Meeting Notes (If Invited to Meeting)            |       X              |       X                 |         X              |           |              |
-| View Meeting Notes (If NOT Invited to Meeting)        |       X<sup>1</sup>  |                         |         X              |           |              |
-| View Internal Meeting Notes (If Invited to Meeting)   |                      |                         |         X              |           |              |
-| Delete Meeting Notes (If Created)                     |       X              |       X                 |         X              |           |              |
-| Create Deliverables                                   |       X              |       X                 |         X              |           |              |
-| Edit Deliverables If Created/Assigned)                |       X              |       X                 |         X              |           |              |
-| Edit Deliverables If NOT Created/Assigned)            |                      |                         |                        |           |              |
-| View Deliverables If Created/Assigned)                |       X              |       X                 |         X              |           |              |
-| View Deliverables If NOT Created/Assigned)            |       X<sup>1</sup>  |                         |         X              |           |              |
-| Delete Deliverables If Created/Assigned)              |                      |                         |                        |           |              |
-| View Program Metrics (On Dashboard)                   |                      |                         |                        |    x      |              |
-| View Rollup Reports (On Dashboard)                    |                      |                         |                        |    x      |    x         |
+| &nbsp;                                                |     ENTREPRENEUR     |     COACH (NON-STAFF)   | COACH (INTERNAL/STAFF) |
+|:-----------------------------------------------------:|:--------------------:|:-----------------------:|:----------------------:|
+| Create/Edit/Delete Events                             |                      |                         |                        |
+| View Events                                           |       X              |       X                 |         X              |
+| Create Meetings                                       |       X              |       X                 |         X              |
+| Edit Meetings (If Created by You)                     |       X              |       X                 |         X              |
+| Delete Meetings                                       |                      |                         |                        |
+| View Meetings (If Invited or Created)                 |       X              |       X                 |         X              |
+| View Meetings (If NOT Invited)                        |       X<sup>1</sup>  |                         |         X              |
+| Create/Edit Meeting Notes (If Invited to Meeting)     |       X              |       X                 |         X              |
+| Create/Edit Meeting Notes (If NOT Invited to Meeting) |       X<sup>1</sup>  |                         |         X              |
+| View Meeting Notes (If Invited to Meeting)            |       X              |       X                 |         X              |
+| View Meeting Notes (If NOT Invited to Meeting)        |       X<sup>1</sup>  |                         |         X              |
+| View Internal Meeting Notes (If Invited to Meeting)   |                      |                         |         X              |
+| Delete Meeting Notes (If Created)                     |       X              |       X                 |         X              |
+| Create Deliverables                                   |       X              |       X                 |         X              |
+| Edit Deliverables If Created/Assigned)                |       X              |       X                 |         X              |
+| Edit Deliverables If NOT Created/Assigned)            |                      |                         |                        |
+| View Deliverables If Created/Assigned)                |       X              |       X                 |         X              |
+| View Deliverables If NOT Created/Assigned)            |       X<sup>1</sup>  |                         |         X              |
+| Delete Deliverables If Created/Assigned)              |                      |                         |                        |
 <sup>1</sup>If specified as an Executive for Company
