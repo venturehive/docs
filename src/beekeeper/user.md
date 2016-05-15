@@ -99,8 +99,8 @@ In the tables below, we have separated roles into two types: Administrator Roles
 | Edit Front Page Content              |       X       |          |                    |         X         |           |              |
 | Change Site Contact Info             |       X       |          |                    |         X         |           |              |
 | Change Site Social Media Info        |       X       |          |                    |         X         |           |              |
-| View Program Metrics (On Dashboard)  |       X       |          |                    |         X         |     x     |              |
-| View Rollup Reports (On Dashboard)   |       X       |          |                    |         X         |     x     |      x       |
+| View Program Metrics (On Dashboard)  |       X       |          |                    |         X         |     X     |              |
+| View Rollup Reports (On Dashboard)   |       X       |          |                    |         X         |     X     |      X       |
 
 ### User Roles
 
