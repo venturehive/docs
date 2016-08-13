@@ -1,8 +1,9 @@
 // The title of this document
-title = "Venture Hive Beekeeper™ User Guide"
+title = "Flitepath™ User Guide"
 
 // The version of this document
-version = "2.0"
+version = "2.1"
+// 2.1 : Changing name to Flitepath
 // 2.0 : Updating screenshots, etc for matching up with v2.0 of Beekeeper
 // 1.2 : Updated User Role permissions to include Meeting NOT invited and Objectives NOT assigned/created
 
@@ -10,7 +11,7 @@ version = "2.0"
 //sourceDirectoryPath = "."
 
 // The path of directory to be outputted a document
-outputDirectoryPath = "../../beekeeper"
+outputDirectoryPath = "../../flitepath"
 
 theme = "default"
 

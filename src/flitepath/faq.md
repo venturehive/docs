@@ -8,9 +8,9 @@ If you are a Venture Hive customer then you automatically have support. There ar
 
 You may certainly suggest a feature whenever you like via the "Feedback & Support" tab found on the right side of the browser window or by email. We will deliberate, prioritize and implement accordingly, but we will always keep you "in the loop".
 
-## Why did you build Beekeeper from scratch?
+## Why did you build Flitepath from scratch?
 
-Beekeeper's predecessor was built on top of a CMS (Content Management System). We found several issues with that approach, though.
+Flitepath's predecessor was built on top of a CMS (Content Management System). We found several issues with that approach, though.
 Namely: Lack of flexibility, slow performance, slower development cycles, and maintenance issues.
 
 For our programs to run smoothly, we need a system that delivers all of the features enumerated below (amd more). We found that it was much easier and safer to get all of these features and more implemented and performing how we wanted them on our own than with a CMS.
@@ -46,18 +46,18 @@ For our programs to run smoothly, we need a system that delivers all of the feat
 16. Clear and concise data schema
 17. Easy integration with potentially various authentication servers
 
-## What technology did you use to build Beekeeper?
+## What technology did you use to build Flitepath?
 
-Beekeeper is built using the [Grails](https://grails.org/ "Grails") web framework which takes advantage of the [Groovy](http://www.groovy-lang.org/ "Groovy") programming language.
+Flitepath is built using the [Grails](https://grails.org/ "Grails") web framework which takes advantage of the [Groovy](http://www.groovy-lang.org/ "Groovy") programming language.
 
-## We have our own authentication server in place (Active Directory, LDAP, etc) and we want to use that instead of creating a new account in Beekeeper. Is that possible?
+## We have our own authentication server in place (Active Directory, LDAP, etc) and we want to use that instead of creating a new account in Flitepath. Is that possible?
 
 We may be able to integrate your existing authentication server but we would need more specifics on your particular server type, authentication schema, access to your network, etc, to know for sure.
 
-## Can Beekeeper be deployed behind our firewall?
+## Can Flitepath be deployed behind our firewall?
 
-We haven't yet deployed beekeeper on-site mainly because one of our features involves Venture Hive network-wide user search and centralized administration.
+We haven't yet deployed flitepath on-site mainly because one of our features involves Venture Hive network-wide user search and centralized administration.
 
-## Can we use our own subdomain/domain for our Beekeeper site?
+## Can we use our own subdomain/domain for our Flitepath site?
 
-You can point your URL to your Beekeeper site's URL using a CNAME DNS record, but we'll have to make a quick web server change to accomodate the new CNAME.
+You can point your URL to your Flitepath site's URL using a CNAME DNS record, but we'll have to make a quick web server change to accomodate the new CNAME.

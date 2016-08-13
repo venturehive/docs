@@ -2,7 +2,7 @@
 
 ## Register Your Account
 
-Some Beekeeper sites allow user "self-registration" via the "Register" link from the main menu of the site. If your site allows self-registration (you'll know if you see a "Register" menu item), then simply click on the menu item, enter the requisite information and await a confirmation email. Your new account will be disabled until you confirm your registration. If your site does **not** allow self registration, then an administrator will have to create your account for you.
+Some Flitepath sites allow user "self-registration" via the "Register" link from the main menu of the site. If your site allows self-registration (you'll know if you see a "Register" menu item), then simply click on the menu item, enter the requisite information and await a confirmation email. Your new account will be disabled until you confirm your registration. If your site does **not** allow self registration, then an administrator will have to create your account for you.
 
 ## Edit Your Account Information
 
@@ -16,7 +16,7 @@ You are encouraged to update your user account and profile information by clicki
 
 # Manage Content
 
-Beekeeper helps you manage Events, Meetings and Deliverables for your program and only lets people see the content that they are supposed to see as dictated by their role.
+Flitepath helps you manage Events, Meetings and Deliverables for your program and only lets people see the content that they are supposed to see as dictated by their role.
 
 ## Calendar & iCal
 
@@ -62,7 +62,7 @@ Some sites may permit their users to register their own ventures on the site. If
 <div id="Roles"></div>
 ## Roles
 
-Each user is granted one or more roles in Beekeeper. Your role dictates which actions your are permitted to perform (creating, editing, or deleting content) and what you are permitted to view.
+Each user is granted one or more roles in Flitepath. Your role dictates which actions your are permitted to perform (creating, editing, or deleting content) and what you are permitted to view.
 
 [comment]: # (Your roles are shown in the User Account form under the "User" menu in the top nav bar. ![User Role](./images/user_role.png)
 
